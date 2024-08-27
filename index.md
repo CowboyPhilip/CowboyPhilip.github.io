@@ -12,7 +12,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Education Experiences
 
-* B.Eng. of Computer Science and Technology from _The Chinese University of Hong Kong, Shenzhen_              <span style="float: right; font-size: 16px; color: grey; margin-left: 10px;"> 2020.09-2024.06</span>
+* B.Eng. of Computer Science and Technology from _The Chinese University of Hong Kong, Shenzhen_  <img src="assets/images/crown-816.png" style="float: right; margin-left: 10px;" alt="描述文本">
+
+
+<span style="float: right; font-size: 16px; color: grey; margin-left: 10px;"> 2020.09-2024.06</span>
 
 
 * M.S. of Computer Engineering at _Columbia University of New York_                                  <span style="float: right; font-size: 16px; color: grey; margin-left: 10px;">In progress, estimated 2024.08-2025.12</span>
